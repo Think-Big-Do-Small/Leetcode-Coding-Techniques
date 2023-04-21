@@ -3,6 +3,8 @@
 # Leetcode-Coding-Techniques
 Leetcode-Coding-Techniques
 
+<details open>
+<summary>1-10题</summary>
 - [第1题：两数相加](http://www.aizaozhidao.vip/tuzikuaipao)
 ```bash 
 void add(int a, int b, int & c)
