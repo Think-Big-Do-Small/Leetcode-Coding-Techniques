@@ -16,7 +16,7 @@ Leetcode-Coding-Techniques
 - I am familar with gpu libraries like cuda, cudnn
 - I am recently doing some image segmentation projects with c++, python and cuda <br> background matting etc. <br> 
 
-### About Software Development Experience
+### Software Development Experience
 - RabbitRun(smart file packaging with high speed and efficiency)  <br> 
 visit site: www.aizaozhidao.vip/tuzikuaipao 
 
