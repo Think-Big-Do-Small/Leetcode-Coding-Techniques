@@ -4,6 +4,12 @@
 Leetcode-Coding-Techniques
 
 - [第1题：两数相加](http://www.aizaozhidao.vip/tuzikuaipao)
+```bash 
+void add(int a, int b, int & c)
+{
+    c = a+b; 
+}
+```
 
 
 
