@@ -12,6 +12,7 @@ void add(int a, int b, int & c)
     c = a+b; 
 }
 ```
+- [第2题：两数相乘]()
 </details>
 
 
