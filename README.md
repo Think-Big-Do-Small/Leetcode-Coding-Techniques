@@ -3,7 +3,9 @@
 # Leetcode-Coding-Techniques
 Leetcode-Coding-Techniques
 
-- [第1题](http://www.aizaozhidao.vip/tuzikuaipao)
+{% for i in range(10) %}
+- [第{{i}}题](http://www.aizaozhidao.vip/tuzikuaipao)
+{% endfor %}
 
 
 ### About Me 
