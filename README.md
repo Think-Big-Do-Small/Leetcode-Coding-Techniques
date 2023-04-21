@@ -1,7 +1,7 @@
 ![GithubHeader](https://user-images.githubusercontent.com/37477845/92315782-e1255d80-f025-11ea-80e0-e62fc08c7a1e.gif)
 
-# Leetcode-Coding-Techniques
-Leetcode-Coding-Techniques
+
+## Leetcode-Coding-Techniques
 
 <details open> 第1-10题
 
@@ -17,7 +17,7 @@ void add(int a, int b, int & c)
 </details>
 
 
-### About Me 
+## About Me 
 - Computer Science, Master, Shenzhen University
 - I am a software engineer 
 - I am familar with computer languages, like c++,java,python,c,matlab,html,css,jquery
@@ -27,7 +27,7 @@ void add(int a, int b, int & c)
 - I am familar with gpu libraries like cuda, cudnn
 - I am recently doing some image segmentation projects with c++, python and cuda <br> background matting etc. <br> 
 
-### Software Development Experience
+## Software Development Experience
 - RabbitRun(smart file packaging with high speed and efficiency)  <br> 
 visit site: www.aizaozhidao.vip/tuzikuaipao 
 
