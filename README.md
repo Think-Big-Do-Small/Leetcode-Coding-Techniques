@@ -3,7 +3,8 @@
 
 ## Leetcode-Coding-Techniques
 
-<details open> 第1-10题
+<summary>第1-10题</summary>
+<details open> 
 
 - [第1题：两数相加](http://www.aizaozhidao.vip/tuzikuaipao)
 ```bash 
