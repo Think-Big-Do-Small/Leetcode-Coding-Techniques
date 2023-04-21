@@ -30,7 +30,7 @@ void add(int a, int b, int & c)
 - I am recently doing some image segmentation projects with c++, python and cuda <br> background matting etc. <br> 
 
 ## Software Development Experience
-- RabbitRun(smart file packaging with high speed and efficiency)  <br> 
+- 兔子快跑 (smart file packaging with high speed and efficiency)  <br> 
 visit site: www.aizaozhidao.vip/tuzikuaipao 
 
 - AI早知道(ai related projects for demostration) <br> 
