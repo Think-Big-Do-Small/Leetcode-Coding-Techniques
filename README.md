@@ -47,17 +47,26 @@ class Solution {
 - [第2题：两数相乘]()
 
 
-<summary>第101-200题</summary>
-- [第101题](#) 
-- [第102题](#) 
 
-<summary>第201-300题</summary>
-- [第201题](#) 
-- [第202题](#) 
 
 
 </details>
 
+<details>
+    <summary>第101-200题</summary>
+- [第101题](#) 
+- [第102题](#) 
+
+</details>
+
+
+<details>
+    <summary>第201-300题</summary>
+- [第201题](#) 
+- [第202题](#) 
+
+    
+</details>
 
 ## About Me 
 - Computer Science, Master, Shenzhen University
