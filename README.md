@@ -31,11 +31,11 @@ void add(int a, int b, int & c)
 
 ## Software Development Experience
 - 兔子找回 (smart file packaging with high speed and efficiency)  <br>
-- [download](www.aizaozhidao.vip/tuzizhaohui)
+- [visit](www.aizaozhidao.vip/tuzizhaohui)
 
 - 图标助手(Icon Maker) <br>
 - image to icon with just one simple mouse click!
-- [download](www.aizaozhidao.vip/icon-maker)
+- [visit](www.aizaozhidao.vip/icon-maker)
 
 
 <br>
