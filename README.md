@@ -15,7 +15,7 @@
 
 
 - [第21题：合并两个有序链表](https://github.com/Think-Big-Do-Small/Leetcode-Coding-Techniques/tree/main/0021.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8)
-Java Version:
+Java Version: <br>
 ```bash
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
@@ -51,7 +51,7 @@ class Solution {
 }
 
 ```
-Cpp Version 
+Cpp Version <br>
 ```bash
 class Solution {
 public:
