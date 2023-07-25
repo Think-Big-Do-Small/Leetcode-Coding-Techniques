@@ -15,8 +15,8 @@
 
 
 - [第21题：合并两个有序链表](https://github.com/Think-Big-Do-Small/Leetcode-Coding-Techniques/tree/main/0021.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8)
+- Java Version:
 ```bash
-
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         if (null == list1) return list2; 
@@ -51,6 +51,45 @@ class Solution {
 }
 
 ```
+- Cpp Version 
+```bash
+class Solution {
+public:
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+        if (nullptr == list1) return list2; 
+        if (nullptr == list2) return list1; 
+        ListNode * l1 = list1; 
+        ListNode * l2 = list2; 
+        ListNode * l3 = nullptr; 
+        /* assign new head */ 
+        if (l1->val < l2->val) {
+            l3 = l1; l1 = l1->next; 
+        } else {
+            l3 = l2; l2 = l2->next; 
+        }
+        /* move next */ 
+        ListNode * l3Mov = l3; 
+        while ((nullptr != l1) && (nullptr != l2)) {
+            if(l1->val < l2->val) {
+                l3Mov->next = l1; l3Mov = l3Mov->next; l1 = l1->next; 
+            } else {
+                l3Mov->next = l2; l3Mov = l3Mov->next; l2 = l2->next; 
+            }
+        }
+        /* l1 left */ 
+        while (nullptr != l1) {
+            l3Mov->next = l1; l3Mov = l3Mov->next; l1 = l1->next; 
+        }
+        /* l2 left */ 
+        while (nullptr != l2) {
+            l3Mov->next = l2; l3Mov = l3Mov->next; l2 = l2->next; 
+        }
+        l3Mov->next = nullptr; 
+        return l3; 
+    }
+};
+```
+
 - [第2题：两数相乘]()
 
 
