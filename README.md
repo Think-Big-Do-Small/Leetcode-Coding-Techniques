@@ -30,11 +30,12 @@ void add(int a, int b, int & c)
 - I am recently doing some image segmentation projects with c++, python and cuda <br> background matting etc. <br> 
 
 ## Software Development Experience
-- 兔子快跑 (smart file packaging with high speed and efficiency)  <br> 
-visit site: www.aizaozhidao.vip/tuzikuaipao 
+- 兔子找回 (smart file packaging with high speed and efficiency)  <br>
+- [download](www.aizaozhidao.vip/tuzizhaohui)
 
-- AI早知道(ai related projects for demostration) <br> 
-visit site: www.aizaozhidao.vip 
+- 图标助手(Icon Maker) <br>
+- image to icon with just one simple mouse click!
+- [download](www.aizaozhidao.vip/icon-maker)
 
 
 <br>
