@@ -132,7 +132,7 @@ public:
 
 ## Software Development Experience
 
-- [兔子找回(RabbitFinder)](www.aizaozhidao.vip/tuzizhaohui) <br>
+- [兔子找回(Rabbit Finder)](www.aizaozhidao.vip/tuzizhaohui) <br>
 - smart file packaging with high speed and efficiency
 
 - [图标助手(Icon Maker)](www.aizaozhidao.vip/icon-maker) <br>
